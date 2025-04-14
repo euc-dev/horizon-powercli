@@ -3,7 +3,7 @@ name: Notify parent repo of submodule updates
 on:
   push:
     branches: 
-      - main
+      - staging
   workflow_dispatch:
 
 jobs:
