@@ -14,6 +14,7 @@ For additional information, please visit the [Omnissa Legal Center](https://www.
 
 | Horizon Server version | Download Powercli module |
 |------------------------------------------------------------------------------------------------------------------------| --- |
+| 8.17/2512 | [horizon4powercli_2512](https://github.com/euc-dev/horizon-powercli/releases/download/2512/horizon4powercli_2512.zip) |
 | 8.16/2506 | [horizon4powercli_2506](https://github.com/euc-dev/horizon-powercli/releases/download/2506/horizon4powercli_2506.zip) |
 | 8.15/2503 | [horizon4powercli_2503](https://github.com/euc-dev/horizon-powercli/releases/download/2503/horizon4powercli_2503.zip) |
 | 8.14/2412 | [horizon4powercli_2412](https://github.com/euc-dev/horizon-powercli/releases/download/2412/horizon4powercli_2412.zip) |
